@@ -137,6 +137,7 @@ img {
 @media (max-width: 28.75em) {
     .nav {
         justify-content: center;
+        backdrop-filter: blur(5px);
     }
     
     .nav-list {
